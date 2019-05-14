@@ -2,6 +2,7 @@
 import wget
 import os
 import pandas as pd
+import openpyxl
 import fuzzywuzzy as fuzz # <- This will be used later, just not here...
 import re
 from datetime import datetime as dt
